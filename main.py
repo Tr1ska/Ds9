@@ -11,4 +11,3 @@ if response.status_code == 200:
     rez1 = euro_list[1].find("span")
     print(rez.text)
     print(rez1.text)
-
